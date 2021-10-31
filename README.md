@@ -6,3 +6,4 @@ Still you can play this on mobile phones, tablets, ipads and desktops. The game 
 <br>
 So what are you waiting for let's play.
 <br>
+[Let's Play](https://utkarsh-27-sharma.github.io/tic-tac-toe.github.io/)
