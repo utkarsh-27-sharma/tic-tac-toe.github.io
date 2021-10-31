@@ -7,3 +7,4 @@ Still you can play this on mobile phones, tablets, ipads and desktops. The game 
 So what are you waiting for let's play.
 <br>
 [Let's Play](https://utkarsh-27-sharma.github.io/tic-tac-toe.github.io/)
+[Let's Play](https://utkarsh-27-sharma.github.io/snake-o-mania.github.io/)
