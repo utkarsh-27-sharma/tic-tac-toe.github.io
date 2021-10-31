@@ -9,3 +9,7 @@ So what are you waiting for let's play.
 <hr>
 
 <a href="https://utkarsh-27-sharma.github.io/tic-tac-toe.github.io/" target="_blank">Let's Play</a>
+<br>
+We can collaborate and develop some interesting stuff together.
+Here's my linkedin profile we can connect and discuss more. 
+<a href="https://www.linkedin.com/in/utkarsh27/" target="_blank">LinkedIn</a>
